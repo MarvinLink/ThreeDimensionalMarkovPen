@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTWBerlin.CENTIS.UnitySketchingKernel.Runtime", "HTWBerlin.CENTIS.UnitySketchingKernel.Runtime.csproj", "{78c24ff8-0220-3416-e5ca-5fab838aa726}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{3c524b07-7a90-a43b-2a80-2b39b02d147b}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTWBerlin.CENTIS.UnitySketchingKernel.Editor", "HTWBerlin.CENTIS.UnitySketchingKernel.Editor.csproj", "{88a323bd-eff4-36e8-d06b-d9d97ddeff4e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{32f19d9c-ab2c-b09b-86a6-a7766c2f5096}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTWBerlin.CENTIS.UnitySketchingKernel.Runtime.Tests", "HTWBerlin.CENTIS.UnitySketchingKernel.Runtime.Tests.csproj", "{ffbbc6e9-e2e6-cc8f-87b6-f47d8a933d52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78c24ff8-0220-3416-e5ca-5fab838aa726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78c24ff8-0220-3416-e5ca-5fab838aa726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3c524b07-7a90-a43b-2a80-2b39b02d147b}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3c524b07-7a90-a43b-2a80-2b39b02d147b}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88a323bd-eff4-36e8-d06b-d9d97ddeff4e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88a323bd-eff4-36e8-d06b-d9d97ddeff4e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32f19d9c-ab2c-b09b-86a6-a7766c2f5096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32f19d9c-ab2c-b09b-86a6-a7766c2f5096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ffbbc6e9-e2e6-cc8f-87b6-f47d8a933d52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ffbbc6e9-e2e6-cc8f-87b6-f47d8a933d52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
